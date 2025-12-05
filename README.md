@@ -44,8 +44,8 @@ I am a **Robotics Engineer** and **Project Manager** bridging the gap between "S
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=koolwayfinder99&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Building+Autonomous+Rovers;Developing+with+ROS2+%26+Python;Designing+Power+Electronics;Optimizing+Vehicle+Dynamics;Simulating+in+Gazebo+%26+ANSYS" alt="Typing SVG" />
   </a>
   
   <br/>
