@@ -44,7 +44,11 @@ I am a **Robotics Engineer** and **Project Manager** bridging the gap between "S
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koolwayfinder99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&exclude_repo=Projects-by-Anukool-Shidhore" height="160" alt="stats graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=koolwayfinder99&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+  
+  <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koolwayfinder99&theme=radical&hide_border=true" height="160" alt="streak graph" />
 </div>
