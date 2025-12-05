@@ -44,6 +44,6 @@ I am a **Robotics Engineer** and **Project Manager** bridging the gap between "S
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koolwayfinder99&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolwayfinder99&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koolwayfinder99&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolwayfinder99&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="160" alt="languages graph" />
 </div>
