@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 I am a **Robotics Engineer** and **Project Manager** bridging the gap between "Steel" (Mechanical Design) and "Silicon" (Computational Intelligence). Currently pursuing a double Master's in Mechatronics (Germany) and Robotics (Spain).
 
-* 🔭 I’m currently working on **Autonomous Mobile Robots & Power Systems for Mars Rovers**.
+* 🔭 I’m currently working on **Autonomous Mobile Robots & Robotic Power Systems**.
 * 🌱 I’m deeply integrating **ROS 2, AI, and Embedded Systems**.
 * 🏎️ Ex-Vehicle Dynamics Lead for **BAJA SAE** & **Formula Student**.
 * 📍 Based in **Madrid, Spain** & **Weingarten, Germany**.
