@@ -78,9 +78,4 @@ I am a **Robotics Engineer** and **Project Manager** bridging the gap between "S
   </a>
   
   <br/>
-  
-  <<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00acc1&center=true&vCenter=true&width=500&lines=Building+Autonomous+Rovers;Developing+with+ROS2+%26+Python;Designing+Power+Electronics;Optimizing+Vehicle+Dynamics;Simulating+in+Gazebo+%26+ANSYS" alt="Typing SVG" />
-  </a>
 </div>
