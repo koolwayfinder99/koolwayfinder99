@@ -68,7 +68,7 @@ I am a **Robotics Engineer** and **Project Manager** bridging the gap between "S
 
 | **Spoken Languages** | **Education Path** |
 | :--- | :--- |
-| ![English](https://img.shields.io/badge/English-C1_(Full_Professional)-0052cc?style=flat&logo=google-translate&logoColor=white) <br> ![German](https://img.shields.io/badge/German-B2_(Professional)-000000?style=flat&logo=google-translate&logoColor=red) <br> ![Spanish](https://img.shields.io/badge/Spanish-A2_(Elementary)-c60b1e?style=flat&logo=google-translate&logoColor=yellow) <br> ![Hindi](https://img.shields.io/badge/Hindi-Native-ff9933?style=flat&logo=google-translate&logoColor=white) | **M.Sc. Mechatronics** <br> *Hochschule Ravensburg-Weingarten, Germany* <br><br> **Erasmus+ Robotics** <br> *Universidad Carlos III de Madrid, Spain* |
+| ![English](https://img.shields.io/badge/English-C1_(Full_Professional)-0052cc?style=flat&logo=google-translate&logoColor=white) <br> ![German](https://img.shields.io/badge/German-C1_(Professional)-000000?style=flat&logo=google-translate&logoColor=red) <br> ![Spanish](https://img.shields.io/badge/Spanish-B1_(Advanced)-c60b1e?style=flat&logo=google-translate&logoColor=yellow) <br> ![Hindi](https://img.shields.io/badge/Hindi-Native-ff9933?style=flat&logo=google-translate&logoColor=white) | **M.Sc. Mechatronics** <br> *Hochschule Ravensburg-Weingarten, Germany* <br><br> **Erasmus+ Robotics** <br> *Universidad Carlos III de Madrid, Spain* |
 
 ---
 
